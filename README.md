@@ -3,4 +3,6 @@ This tool is made for legal and OSINT purposes and you can use this tool to get 
 
 # install Termux / Linix
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/hellobytecodes/WhoInfo
+cd WhoInfo
+python whoInfo.py
