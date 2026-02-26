@@ -1,3 +1,6 @@
+# Screen Shot
+<img src="screen.png" ali="">
+
 # Description
 This tool is made for legal and OSINT purposes and you can use this tool to get various information from a site Note: Use legally
 
