@@ -14,3 +14,5 @@ pip install -r requirements.txt
 ```bash
 python whoInfo.py
 ```
+# last word
+I have almost nothing to say, I just hope you use it well. God bless. 👋♥️
